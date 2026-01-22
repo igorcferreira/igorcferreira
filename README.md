@@ -1,3 +1,13 @@
+# About
+
+I'm a mobile developer focused on building apps that people genuinely enjoy using. Over 15+ years in software development—with 10+ of those focused on iOS and Android—I've had the chance to work on everything from ride-hailing apps to real estate platforms to fintech products.
+
+These days, I spend most of my time with Swift and SwiftUI on iOS, and Kotlin with Jetpack Compose on Android. I also use Kotlin Multiplatform for sharing code across platforms, and I've built server-side features using Kotlin and Spring Framework when projects call for it. This full-stack perspective helps me think beyond just the mobile layer.
+
+Beyond writing code, I've grown into a Platform Leader role—mentoring developers, shaping technical direction, and helping teams ship quality work on both platforms. I care deeply about clean architecture, performance, accessibility, localization, and creating experiences that feel effortless to users.
+
+[Resume](https://github.com/igorcferreira/Resume)
+
 # Dev Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=igorcferreira&count_private=true&hide=css,html&theme=dracula)
